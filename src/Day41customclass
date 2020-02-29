@@ -1,0 +1,30 @@
+public class Day41customclass {
+    public static void main(String[] args) {
+
+TV t1=new TV();
+
+t1.name="Sony";
+t1.isOne=true;
+
+
+t1.setCurrentChannel(50);
+        System.out.println(t1);
+
+
+Person p1=new Person("emma",35);
+        System.out.println(p1);
+p1.setName("emma");
+p1.setAge(35);
+
+
+        System.out.println(p1);
+
+
+
+        System.out.println(p1);
+
+
+
+
+    }
+}
