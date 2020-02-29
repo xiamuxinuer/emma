@@ -15,6 +15,7 @@ public class day3 {
         System.out.println("hello\nB15");
         int n=123;
         System.out.println(n);
+        System.out.println("hello world");
 
 
     }
