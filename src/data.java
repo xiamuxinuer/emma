@@ -23,7 +23,7 @@ public class data {
         System.out.println("lihgtison    " + true);
 
 
-
+        System.out.println("this was super easy topic");
 
 
 
