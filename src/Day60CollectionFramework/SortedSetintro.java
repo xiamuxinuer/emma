@@ -11,6 +11,10 @@ public class SortedSetintro {
         mySet.addAll(Arrays.asList(100,72,15,20,50,55));
 
         System.out.println(mySet);
+        for (int each:mySet
+             ) {
+            System.out.println(each);
+        }
 
         System.out.println(mySet.first());
         System.out.println(mySet.last());
@@ -27,6 +31,14 @@ public class SortedSetintro {
       SortedSet<Job> jobSet= new TreeSet(Arrays.asList(j1,j2,j3,j4));
 
         System.out.println(jobSet);
+
+        for (Job each:jobSet
+             ) {
+            System.out.println("each = " + each);
+        }
+
+
+
 
 
     }

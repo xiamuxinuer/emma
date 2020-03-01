@@ -29,5 +29,10 @@ public class Job implements Comparable <Job> {
                 ", salary=" + salary +
                 ", companyName='" + companyName + '\'' +
                 '}';
+
+
+
+
+
     }
 }
