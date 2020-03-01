@@ -18,6 +18,14 @@ public class GitHubPractice {
         }
 
 
+        System.out.println("this is palindrome code");
+
+
+
+
+
+
+
 
 
     }
